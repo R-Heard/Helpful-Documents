@@ -3,10 +3,15 @@ Open any ofthe above documents to see examples of what they actually are and how
 List of things as PM Artifacts
 
 **Artifacts to use BEFORE Project Approval: **
+
 BRD - Business Requirements Document (high level goals, and any inflexible dates or requirements with reasoning of why they are inflexible)
+
 CBA - Cost Benefit Analysis (this is for upfront costs as well as Total Cost of Ownership [TCO] over 1-3years)
+
 RACI - Who will do what on the team in broad terms. (Initially it can be Product X DEV Team- but a specific person from DEV will need to be named)
+
 Event Communication plan (When we do things how will we communicate? This will be for Change Control, Outages, Deployments, and Unplanned Outages)
+
 Charter - This is the overall plain language document that leadership agrees to and is a summarized view of BRD/CBA/RACI/Communications 
 
 **Artifacts to use AFTER a Project is approved: **

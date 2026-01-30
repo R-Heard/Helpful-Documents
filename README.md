@@ -2,7 +2,7 @@ Open any ofthe above documents to see examples of what they actually are and how
 
 List of things as PM Artifacts
 
-**Artifacts to use BEFORE Project Approval: **
+                   **Artifacts to use BEFORE Project Approval: **
 
 BRD - Business Requirements Document (high level goals, and any inflexible dates or requirements with reasoning of why they are inflexible)
 
@@ -14,7 +14,7 @@ Event Communication plan (When we do things how will we communicate? This will b
 
 Charter - This is the overall plain language document that leadership agrees to and is a summarized view of BRD/CBA/RACI/Communications 
 
-**Artifacts to use AFTER a Project is approved: **
+                   **Artifacts to use AFTER a Project is approved: **
 
 Requirements Traceability matrix - (Details for what it takes to accomplish the goals. This gets to the nitty-gritty and aligns a business need with the Jira/DevOps tickets to get it done)
 

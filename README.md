@@ -1,4 +1,4 @@
-Open any ofthe above documents to see examples of what they actually are and how they are used:
+Open any of the above documents to see examples of what they actually are and how they are used:
 
 List of things as PM Artifacts
 
